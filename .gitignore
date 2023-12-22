@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+__env__/
+
+# IDE specific files
+.idea/
+.vscode/
+
+# Compiled source
+*.pyc
+*.pyo
+*.pyd
+
+# Captured files
+*.log
+
+# Temporary files
+*.tmp
+
+# Package files
+*.whl
+*.egg-info/
+
+# Distribution / packaging
+dist/
+build/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Sphinx documentation
+docs/_build/
